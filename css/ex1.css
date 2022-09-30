@@ -1,6 +1,6 @@
 body{
    width: 800px;
-   background-color: rgb(65, 65, 65) url('../images/body_bg.gif') repeat-x top;
+   background: rgb(65, 65, 65) url('../images/body_bg.gif') repeat-x top;
    font-family: 'Courier New', Courier, monospace;
    font-size: 1em;
    color: rgb(0, 0, 0);
